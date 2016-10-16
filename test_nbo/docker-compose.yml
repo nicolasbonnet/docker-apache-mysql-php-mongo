@@ -1,0 +1,5 @@
+#environnement de dev pour le travail sur le l'API de MDP
+#pour cela il faut se créer un environnement de dev
+#afin de pouvoir y trailler n'importe où et n'importe qui.
+#Franck, moi ou un presta externe (APIdev ???? un truc comme ça)
+version: '1'
